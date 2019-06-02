@@ -1,0 +1,28 @@
+{
+  "name": "kemboijstest",
+  "version": "1.0.0",
+  "description": "This is a test for kemboijs, a nodejs API-based framework\"",
+  "main": "index.js",
+  "dependencies": {
+    "kemboijs": "file:../kemboijs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-x-mi/kemboijstest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "kemboijs",
+    "framework"
+  ],
+  "author": "Ezrqn Kemboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me-x-mi/kemboijstest/issues"
+  },
+  "homepage": "https://github.com/me-x-mi/kemboijstest#readme"
+}

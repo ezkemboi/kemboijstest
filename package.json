@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "This is a test for kemboijs, a nodejs API-based framework\"",
   "main": "index.js",
-  "dependencies": {
-    "kemboijs": "file:../kemboijs"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/me-x-mi/kemboijstest/issues"
   },
-  "homepage": "https://github.com/me-x-mi/kemboijstest#readme"
+  "homepage": "https://github.com/me-x-mi/kemboijstest#readme",
+  "dependencies": {
+    "kemboijs": "0.0.2"
+  }
 }
